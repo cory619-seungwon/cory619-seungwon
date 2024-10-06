@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cory619-seungwon
+- 👋 Hi, I’m seungwon LEE
 - 👀 I’m interested in deep-learning for image detection.
 - 🌱 I’m currently learning anomaly detection.
 - 💞️ I’m looking to collaborate on ...
